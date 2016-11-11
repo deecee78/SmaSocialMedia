@@ -1,0 +1,1 @@
+You were drawing some potential logo graphics.  This folder would be a perfect spot for these.
