@@ -1,1 +1,100 @@
+<!DOCTYPE html>
+<html>
+<body>
 
+
+
+
+</body>
+</html>
+<meta name="Keywords" CONTENT="Social Media Page">
+
+
+<meta name="Description" CONTENT="Kate Harty">
+
+
+<meta name="Author" CONTENT="Kate Harty, Ciara Miesle, Molly Painter and Nancy Haren">
+
+
+<head>
+<title>PepperChat</title>
+    <style type="text/css">
+    p, li,        {color: #e6ffff ; font-family: comic sans MS, "cursive"; font-size: 13pt; text-align: justify }
+    td, tr        {color: #e6ffff ; font-family: comic sans MS, "cursive"; font-size: 16pt; text-align: left }
+    h1         {color: #ff1a1a ; font-family: comic sans MS, "cursive"; font-size: 40pt; text-align: left }
+    h2         {text-align: left; color: #004d00 ; font-family: comic sans MS, "cursive"; font-size: 22pt }
+    h3         {text-align: left; color: #ff1a1a ; font-family: comic sans MS, "cursive"; font-size: 24pt}
+    a:link         {text-decoration: none; font-family: comic sans MS, "cursive"; font-size: 130%; color: #e60000 }   
+    a:visited     {text-decoration: none; font-family: comic sans MS, "cursive"; font-size: 130%; color: #e60000 }
+    a:hover     {text-decoration: none; font-family: comic sans MS, "cursive"; font-size: 130%; color: #e60000 }
+       nav             {text-align: center; color: #004d00 ; font-family: comic sans MS, "cursive"; font-size: 18pt }
+    </style>
+<div style="margin-left: 50px;">
+<div style="margin-right: 50px;">
+</head>
+ 
+
+
+<!-- TABLE FOR HORIZONTAL LINKS BAR -->
+<table width="200%" align="left">
+<tr bgcolor="#ffffff ">
+</tr>
+</table>
+
+
+<nav>
+ 
+
+<table width="200%" align="centre">
+<tr bgcolor="#ffffff ">
+</tr>
+</table>
+
+
+<img src="computerpepper.png"  style="width:34px;height:34px;">
+
+<a href="SMAmesscopy.html">Home</a> |
+ 
+<a href="SMAsignup.html">Rules</a> |
+ 
+<a href="SMAabout.html">About</a> |
+
+<a href="SMAsignup.html">Sign Up</a>|
+
+<a href="SMAlogin.html">Login</a>
+</nav>
+
+
+
+             
+
+
+<!-- CONTENT GOES HERE -->
+
+
+<p><B><i><h2  style="text-align:left">Welcome to PepperChat! &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</h2></B>
+
+<p><font size="5" color="red"><font face="comic sans ms"><i>
+
+<p>Created by</font></p>
+<B><i><h2  style="text-align:left">Nancy, Kate, Ciara and Molly</h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+<!-- CONTENT ENDS HERE -->
+
+
+</body>
+</html>
