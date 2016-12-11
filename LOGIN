@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pepper Chat</title>
+
+<style>
+h1 {
+    text-align: center;color: green;font-size:30px;
+}
+</style>
+</head>
+<body>
+<a href="SmaSocialMedia/About.html" /><h1>About</h1>
+<a href="SmaSocialMedia/homepage.html" /><h1>home</h1>
+</body>
+</html>
